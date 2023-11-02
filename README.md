@@ -1,6 +1,6 @@
 # SIMPLE_CALCULTOR
 
-# Project Title
+# Project description
 
 this is a simple calculator project that can do main math operations (sum , subtract , multiplication , division).\
 this code is customised for atmega32 microcontroller.\
